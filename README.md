@@ -13,8 +13,8 @@ Omissis certifies where a photo comes from and lets you hide faces and plates wi
 
 A static web app: no build step, no backend.
 
-- **macOS:** double-click `start.command`. It serves the folder on <http://127.0.0.1:8000> and opens the browser. If macOS says it can't verify the file (it does so for any downloaded script), go to *System Settings → Privacy & Security* and click *Open Anyway*. Or, from the project folder: `python3 -m http.server 8000 --bind 127.0.0.1`.
-- **Windows:** open `index.html` in Chrome, Edge or Opera, or run `start-windows.bat`. If Windows blocks it, right-click the zip → *Properties* → *Unblock*, then extract again.
+- **macOS:** double-click `start.command`. It serves the folder on <http://127.0.0.1:8000> and opens the browser. 
+- **Windows:** open `index.html` in Chrome, Edge or Opera, or run `start-windows.bat`. 
 
 Tested in Chrome; Safari 15+ works through `start.command`. Without internet, use the **Testnet / Offline** switch (top right). Keys `1`–`6` switch steps, `Space` takes the photo.
 
