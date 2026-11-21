@@ -1,4 +1,4 @@
-<p align="center"><img src="docs/omissis-logo.png" width="96" alt="Omissis logo"></p>
+<p align="center"><img src="omissis/docs/omissis-logo.png" width="96" alt="Omissis logo"></p>
 
 # Omissis: blur the face, keep the proof
 
