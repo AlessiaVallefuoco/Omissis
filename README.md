@@ -2,7 +2,7 @@
 
 # Omissis: blur the face, keep the proof
 
-IXH26 Italian XRPL Hackathon, Bari · Track 01: Advanced Cryptography
+IXH26 Italian XRPL Hackathon, Bari · Track 01: Advanced Cryptography<br>
 Team Asse Perugia-Napoli-Roma: Giorgia Gaj, Alessandro Giannoni, Alessandro Marangio, Lorenzo Spinelli, Alessia Vallefuoco.
 
 Omissis certifies where a photo comes from and lets you hide faces and plates without losing that proof, with no central authority and without exposing the person who took it.
